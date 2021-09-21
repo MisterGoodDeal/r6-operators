@@ -1,0 +1,29 @@
+{
+  "name": "@mistergooddeal/r6-operators",
+  "version": "1.0.0",
+  "description": "Simple library to fetch Rainbow Six Sieges operators PNG images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MisterGoodDeal/r6-operators.git"
+  },
+  "keywords": [
+    "r6",
+    "rainbox",
+    "six",
+    "siege",
+    "fps",
+    "images",
+    "npm",
+    "library"
+  ],
+  "author": "MisterGoodDeal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MisterGoodDeal/r6-operators/issues"
+  },
+  "homepage": "https://github.com/MisterGoodDeal/r6-operators#readme"
+}
